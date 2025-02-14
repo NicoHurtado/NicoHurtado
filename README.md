@@ -1,5 +1,5 @@
 # 💫 About Me:
-Nicolas Hurtado Amezquita<br>Data Scientist | Computer Science Student<br>
+Nicolas Hurtado Amezquita<br>Data Scientist | Computer Science<br>
 
 
 ## 🌐 Socials:

@@ -1,10 +1,11 @@
-# 💫 About Me:
+# About Me:
 Nicolas Hurtado Amezquita<br>Data Scientist | backend developer | Computer Science - Engineer<br>
 
 
-## 🌐 Socials:
+## LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nicohurtado) 
 
+# Tech
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img

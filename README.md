@@ -1,5 +1,5 @@
 # About Me:
-Nicolas Hurtado Amezquita<br>Data Scientist | backend developer | Computer Science - Engineer<br>
+Nicolas Hurtado Amezquita<br>Computer Science - Engineer<br> Data Scientist | AI | backend developer
 
 
 ## LinkedIn:
@@ -9,7 +9,7 @@ Nicolas Hurtado Amezquita<br>Data Scientist | backend developer | Computer Scien
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=python,java,django,fastapi,git,aws,mongodb,mysql,matplotlib,numpy,pandas,scikitlearn,langchain,kaggle,huggingface,tensorflow,pytorch,jupyter,docker"
+      src="https://go-skill-icons.vercel.app/api/icons?i=python,java,django,fastapi,git,aws,mongodb,mysql,matplotlib,numpy,polars,scikitlearn,langchain,tensorflow,pytorch,jupyter,docker"
     />
   </a>
 </p>
